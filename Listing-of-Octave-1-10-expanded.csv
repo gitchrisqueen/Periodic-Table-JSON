@@ -1,0 +1,126 @@
+Atomic Number,Tone Interval,Tone Position,Octave Number,Tone Number,Element Name,Element Symbol,Atomic Weight,Melting Point (C)
+,,0 =,,400 =,Hydron,,unknown,unknown
+1,Do,1+,4,401 +,Hydrogen,H,1.0079,-259
+,Re,2 +,4,402 +,Ethlogen,Eg,unknown,unknown
+,Mi,3 +,4,403 +,Bebegen,Bb,unknown,unknown
+,Fa,4 ++,4,404 ++,Carbogen,Cb,unknown,unknown
+,So,3,4,403 -,Luminon,Ln,2.92,unknown
+,La,2,4,402 -,Halanon,Ha,unknown,unknown
+,Ti,1 -,4,401 -,Helionon,Hi,unknown,unknown
+2,,0 =,,500 =,Helium,He,4.0026,-272
+3,Do,1 +,5,501 +,Lithium,Li,6.941,180
+4,Re,2 +,5,502 +,Beryllium,Be,9.0122,1278
+5,Mi,3 +,5,503 +,Boron,B,10.811,2300
+6,Fa,4 ++,5,504 ++,Carbon,C,12.0107,3500
+7,So,3 -,5,503 -,Nitrogen,N,14.0067,-210
+8,La,2 -,5,502 -,Oxygen,o,15.9994,-218
+9,Ti,1 - -,5,501 -,Fluorine,F,18.9984,-220
+10,,0 =,,600 =,Neon,Ne,20.1797,-249
+11,Do,1+,6,601 +,Sodium,Na,22.9897,98
+12,Re,2 +,6,602 +,Magnesium,Mg,24.305,639
+13,Mi,3 +,6,603 +,Aluminum,Al,26.9815,660
+14,Fa,4 ++,6,604 ++,Silicon,Si,28.0855,1410
+15,So,3 - -,6,603 -,Phosphorus,P,30.9738,44
+16,La,2 - -,6,602 -,Sulfur,S,32.065,113
+17,Ti,1 -,6,601 -,Chlorine,CI,"35,453",-101
+18,,0 =,,700 =,Argon,Ar,39.948,-189
+19,Do,1 +,7,701 +,Potassium,K,39.0983,64
+20,Re,2 +,7,702 +,Calcium,Ca,40.078,839
+21,Mi,3 +,7,703 +,Scandium,Sc,44.9559,1539
+22,Mi167,3A+,7,703A +,Titanium,Ti,47.867,1660
+23,Mi333,3B +,7,703B +,Vanadium,V,50.9415,1890
+24,Mi500,3C +,7,703C +,Chromium,Cr,51.9961,1857
+25,Mi666,3D +,7,703D +,Manganese,Mn,54.938,1245
+26,Mi833,3E +,7,703E +,Iron,Fe,55.845,1535
+27,Fa,4 ++,7,704 ++,Cobalt,Co,58.9332,1495
+28,So833,3E,7,703E,Nickel,Ni,58.6934,1453
+29,So666,3D,7,703D,Copper,Cu,63.546,1083
+30,So500,3C,7,703C,Zinc,Zn,65.39,420
+31,So333,3B,7,703B,Gallium,Ga,69.723,30
+32,So167,3A,7,703A -,Germanium,Ge,72.64,937
+33,So,3,7,703,Arsenic,As,74.9216,81
+34,La,2,7,702,Selenium,Se,78.96,217
+35,Ti,1 -,7,701,Bromine,Br,79.904,-7
+36,,,,800 =,Krypton,Kr,83.8,-157
+37,Do,1 +,8,801 +,Rubidium,Rb,85.4678,39
+38,Re,2 +,8,802 +,Strontium,Sr,87.62,769
+39,Mi,3 +,8,803 +,Yttrium,Y,88.9059,1523
+40,Mi167,3A +,8,803A +,Zirconium,Zr,91.224,1852
+41,Mi333,3B +,8,803B +,Niobium,Nb,92.9064,2468
+42,Mi500,3C +,8,803C +,Molybdenum,Mo,95.94,2617
+43,Mi666,3D +,8,803D +,Technetium,To,98,2200
+44,Mi833,3E +,8,803E +,Ruthenium,Ru,101.07,2250
+45,Fa,4 ++,8,804 ++,Rhodium,Rh,102.9055,1966
+46,So833,3E,8,803E,Palladium,Pd,106.42,1552
+47,So666,3D,8,803D,Silver,Ag,107.8682,962
+48,So500,3C,8,803C,Cadmium,Cd,112.411,321
+49,So333,3B,8,803B -,Indium,In,114.818,157
+50,So167,3A,8,803A,Tin,Sn,118.71,232
+51,So,3,8,803,Antimony,Sb,121.76,630
+52,La,2,8,802,Tellurium,Te,127.6,449
+53,Ti,1,8,801,lodine,I,126.9045,114
+54,,0,,900 =,Xenon,Xe,131.293,-112
+55,Do,1+,9,901 +,Cesium,Cs,132.906,29
+56,Re,2 +,9,902 +,Barium,Ba,137.327,725
+57,Mi,3 +,9,903 +,Lanthanum,La,138.906,920
+58,Mi077,3A+,9,903A +,Cerium,Ce,140.116,795
+59,Mi154,3B +,9,903B +,Praseodymium,Pr,140.908,935
+60,Mi231,3C +,9,903C +,Neodymium,Nd,144.24,1010
+61,Mi308,3D +,9,903D +,Promethium,Pm,145,1100
+62,Mi384,3E+,9,903E +,Samarium,Sm,150.36,1072
+63,Mi462,3F +,9,903F +,Europium,Eu,151.964,822
+64,Mi539,3G+,9,903G +,Gadolinium,Gd,157.25,1311
+65,Mi615,3H +,9,903H +,Terbium,Tb,158.925,1360
+66,Mi692,31 +,9,9031 +,Dysprosium,Dy,162.5,1412
+67,Mi769,3J +,9,903J +,Holmium,Ho,164.93,1470
+68,Mi846,3K+,9,903K +,Erbium,Er,167.259,1522
+69,Mi923,3L +,9,903L +,Thulium,Tm,"168,934",1545
+70,Fa,4 ++,9,904 ++,Ytterbium,Yb,173.04,824
+71,So923,3L,9,903L -,Lutetium,Lu,174.967,1656
+72,So846,3K,9,903K -,Hafnium,Hf,178.49,2150
+73,So769,3J,9,903J -,Tantalum,Ta,180.948,2996
+74,So692,31,9,9031 -,Tungsten,W,183.84,3410
+75,So615,3H,9,903H -,Rhenium,Re,186.207,3180
+76,So539,3G,9,903G -,Osmium,Os,190.23,3045
+77,So462,3F,9,903F -,Iridium,Ir,192.217,2410
+78,So384,3E -,9,903E -,Platinum,Pt,195.078,1772
+79,So308,3D,9,903D,Gold,Au,196.967,1064
+80,So231,3C,9,903C -,Mercury,Hg,200.59,-39
+81,So154,3B -,9,903B -,Thallium,Tl,204.383,303
+82,So077,3A,9,903A -,Lead,Pb,207.2,327
+83,So,3 -,9,903 -,Bismuth,Bi,208.98,271
+84,La,2,9,902,Polonium,Po,209,254
+85,Ti,1,9,901 -,Astatine,At,210,302
+86,,0 =,,1000 =,Radon,Rn,222,-71
+87,Do,1+,10,1001 +,Francium,Fr,223,27
+88,Re,2 +,10,1002 +,Radium,Ra,226,700
+89,Mi,3 +,10,1003 +,Actinium,Ac,227,1050
+90,Mi077,3A+,10,1003A +,Thorium,Th,"232,038",1750
+91,Mi154,3B+,10,1003B +,Protactinium,Pa,231.036,1568
+92,Mi231,3C +,10,10030 +,Uranium,U,238.029,1132
+93,Mi308,3D +,10,1003D +,Neptunium,Np,237,640
+94,Mi384,3E+,10,1003E +,Plutonium,Pu,244,640
+95,Mi462,3F +,10,1003F +,Americium,Am,243,994
+96,Mi539,3G +,10,1003G +,Curium,Cm,247,1340
+97,Mi615,3H +,10,1003H +,Berkelium,Bk,247,986
+98,Mi692,31 +,10,10031 +,Californium,Cf,251,900
+99,Mi769,3J +,10,1003J +,Einsteinium,Es,252,860
+100,Mi846,3K +,10,1003K +,Fermium,Fm,257,1527
+101,Mi923,3L +,10,1003L +,Mendelevium,Md,258,unknown
+102,Fa,4 ++,10,1004 ++,Nobelium,No,259,827
+103,So923,3L,10,1003L -,Lawrencium,Lr,262,1627
+104,So846,3K -,10,1003K -,Rutherfordium,Rf,261,unknown
+105,So769,3J,10,1003J -,Dubnium,Db,262,unknown
+106,So692,31,10,10031 -,Seaborgium,Sg,266,unknown
+107,So615,3H,10,1003H -,Bohrium,Bh,264,unknown
+108,So539,3G -,10,1003G -,Hassium,Hs,277,unknown
+109,So462,3F -,10,1003F -,Meitnerium,Mt,268,unknown
+110,So384,3E,10,1003E -,Darmstadtium,Ds,281,unknown
+111,So308,3D -,10,1003D -,Roentgenium,Rg,281,unknown
+112,So231,3C,10,1003C -,Copernicium,Cn,285,unknown
+113,So154,3B,10,1003B -,Ununtrium,Uut,286,unknown
+114,So077,3A -,10,1003A -,Ununquadium,Uuq,289,unknown
+115,So,3,10,103,Ununpentium,Uup,289,unknown
+116,La,2,10,102,Ununhexium,Uuh,293,unknown
+117,Ti,1 -,10,101,Ununseptium,Uus,294,unknown
+118,,0,,100 =,Ununoctium,Uuo,294,unknown

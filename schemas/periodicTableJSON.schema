@@ -47,6 +47,18 @@
             "group": {
               "type": "integer"
             },
+            "tone_interval": {
+              "type": "string"
+            },
+            "tone_position": {
+              "type": "string"
+            },
+            "tone_number": {
+              "type": "string"
+            },
+            "octave": {
+              "type": "integer"
+            },
             "phase": {
               "type": "string"
             },
